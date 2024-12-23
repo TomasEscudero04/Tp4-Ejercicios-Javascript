@@ -4,9 +4,9 @@
 
 class Producto {
     constructor(codigo, nombre, precio) {
-        this._codigo = 1111;
-        this._nombre = pure;
-        this._precio = 2500;
+        this._codigo = codigo;
+        this._nombre = nombre;
+        this._precio = precio;
 
     }
 
